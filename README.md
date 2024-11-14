@@ -1,6 +1,6 @@
 # Secure Authentication and Key Agreement Protocol
 
-This repository contains resources for a project developed as part of the **Design of Secure Protocols** course. The project explores a secure authentication and key agreement protocol, focusing on aspects of user anonymity and untraceability in 5G-enabled softwarized industrial cyber-physical systems.
+This repository contains resources for a project developed as part of the **CS 428 Design of Secure Protocols** course. The project explores a secure authentication and key agreement protocol, focusing on aspects of user anonymity and untraceability in 5G-enabled softwarized industrial cyber-physical systems.
 
 ## Project Tasks
 
